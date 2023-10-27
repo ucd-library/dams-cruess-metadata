@@ -1,0 +1,46 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/237597"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/801355"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/D053_12_17.tif"
+  },
+  "schema:datePublished": "1959",
+  "schema:identifier": [
+    "ark:/87293/d3fx7433w",
+    "D-053, Box:12 Folder:17"
+  ],
+  "schema:image": {
+    "@id": "@base:/D053_12_17.tif"
+  },
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt10002563/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-US/1.0/"
+  },
+  "schema:material": "1 print, 1 negative",
+  "schema:name": "Cruess with experimental canned fruits and vegetables",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+}

@@ -1,0 +1,46 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Photograph",
+    "schema:ImageObject",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/801054"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/801355"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/D053_31_11.tif"
+  },
+  "schema:identifier": [
+    "D-053, Box:31 Folder:11",
+    "ark:/87293/d3pg1ht0t"
+  ],
+  "schema:image": {
+    "@id": "@base:/D053_31_11.tif"
+  },
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt10002563/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-US/1.0/"
+  },
+  "schema:material": "2 prints",
+  "schema:name": "Waste stems being transferred to trucks for removal from winery premises",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "undated"
+}

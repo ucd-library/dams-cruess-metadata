@@ -1,0 +1,71 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Collection",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "ucdlib:hasLabel": {
+    "@id": "@base:/labels"
+  },
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/237597"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/801054"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/801355"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/800949"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/930571"
+    }
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2023"
+  },
+  "schema:description": "William Vere Cruess, a pioneer in food science and technology, spent his entire career as a University of California, Berkeley faculty member. His research was instrumental in the development of many practices in the field of food science including: mechanical fruit dehydration, the use of fruits in the production of fruit juices and fruit beverages, and the use of freezing storage for preservation of fruits and fruit products. Cruess also conducted important research on the principles of wine making and olive processing. The William Vere Cruess Papers, which span the years 1915-1965, contain writings, correspondence, memorabilia, and photographic materials related to his research in the areas of food processing, food preservation, and wine making.\n\nThe collection contains nine linear feet of photographic materials. These seven images are a small selection of the photographs, negatives and slides available in the Cruess Papers. A full inventory of the collection is available at the [Online Archive of California](https://oac.cdlib.org/findaid/ark:/13030/kt10002563/).",
+  "schema:identifier": "D-053",
+  "schema:image": {
+    "@id": "info:fedora/item/ark:/87293/d3fx7433w/D053_12_17.tif"
+  },
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt10002563/"
+  },
+  "schema:license": {
+    "@id": "https://rightsstatements.org/page/NoC-US/1.0/"
+  },
+  "schema:name": "Cruess (William Vere) Photographs",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis, Archives and Special Collections"
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2023"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis, Archives and Special Collections"
+  ]
+}

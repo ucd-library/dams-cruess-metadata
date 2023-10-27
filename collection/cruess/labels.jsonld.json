@@ -1,0 +1,32 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/237597",
+    "http://schema.org/name": "Cruess, W. V. (William Vere)"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/800949",
+    "http://schema.org/name": "Agricultural laborers"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/801054",
+    "http://schema.org/name": "Agricultural machinery"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/801355",
+    "http://schema.org/name": "Agriculture"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/930571",
+    "http://schema.org/name": "Food--Preservation"
+  }
+]
