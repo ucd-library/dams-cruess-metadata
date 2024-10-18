@@ -38,7 +38,10 @@
     "@value": "2023"
   },
   "schema:description": "William Vere Cruess, a pioneer in food science and technology, spent his entire career as a University of California, Berkeley faculty member. His research was instrumental in the development of many practices in the field of food science including: mechanical fruit dehydration, the use of fruits in the production of fruit juices and fruit beverages, and the use of freezing storage for preservation of fruits and fruit products. Cruess also conducted important research on the principles of wine making and olive processing. The William Vere Cruess Papers, which span the years 1915-1965, contain writings, correspondence, memorabilia, and photographic materials related to his research in the areas of food processing, food preservation, and wine making.\n\nThe collection contains nine linear feet of photographic materials. These seven images are a small selection of the photographs, negatives and slides available in the Cruess Papers. A full inventory of the collection is available at the [Online Archive of California](https://oac.cdlib.org/findaid/ark:/13030/kt10002563/).",
-  "schema:identifier": "D-053",
+  "schema:identifier": [
+    "D-053",
+    "ark:/87293/d3th8bv2d"
+  ],
   "schema:image": {
     "@id": "info:fedora/item/ark:/87293/d3fx7433w/D053_12_17.tif"
   },
